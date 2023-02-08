@@ -81,6 +81,10 @@ header > p{
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.431);
     padding-left: 10px;
     padding-right: 10px;
+<<<<<<< HEAD
+=======
+    /*width: 500px;*/
+>>>>>>> be9787aadf033762aa12fa9b01ebdd828ccea922
     margin: auto;
 }
 
